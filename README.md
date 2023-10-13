@@ -1,7 +1,9 @@
 # BlogVoyage + REST API (BlogVoyage.API)
 ## _Social network for bloggers and even more_
-
+## based on:
 [![N|Solid](https://static.djangoproject.com/img/logos/django-logo-negative.svg)](https://www.djangoproject.com/)
+## and
+[![N|Solid](https://www.django-rest-framework.org/img/logo.png)](https://www.django-rest-framework.org/)
 
 BlogVoyage is a project for learning, testing and improving skills on python, django, sql, REST api etc.
 
@@ -11,6 +13,7 @@ Images will be transfered as a binary Base64 image format.
 *more of them will be implemented up to 15 Oct. 2023
 
 - Could start a DEV server
+- Could post, update, delete posts, groups, commentaries via API
 
 ## Tech
 
